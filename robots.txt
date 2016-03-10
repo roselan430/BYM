@@ -1,0 +1,4 @@
+Sitemap: http://betterplacetravel.com/sitemap.xml
+
+User-agent: *
+Disallow: 
