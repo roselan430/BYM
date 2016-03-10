@@ -1,2 +1,3 @@
-# BYM
-My first repository on GitHub
+website address
+
+http://betterplacetravel.com/index.html
